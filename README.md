@@ -1,5 +1,6 @@
 # Artificial-Inteligence
 
+**Starting** - Transformer from scratch using PyTorch
 
 **Case Study** - Using ChatGPT to Build a Deep Learning Model
 1. **Project 1** - Implementing Attention Mechanism in Python Without Using Frameworks
